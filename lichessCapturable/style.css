@@ -1,0 +1,17 @@
+.capturable-square
+{
+    background-color: rgba(255, 84, 37, 0.7);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 12.5%;
+    height: 12.5%;
+    pointer-events: none;
+}
+
+capturable-square
+{
+    position: absolute;
+    width: 50px; 
+    height: 50px; 
+}
